@@ -3,7 +3,7 @@
     <nav>
       <router-link to="/">Home</router-link>
       <router-link to="/actualizar">Actualizar</router-link>
-      <router-link to="/buscar">Buscar</router-link>
+      <router-link to="/buscar/10">Buscar</router-link>
       <router-link to="/insertar">Insertar</router-link>
       <router-link to="/eliminar">Eliminar</router-link>
     </nav>
