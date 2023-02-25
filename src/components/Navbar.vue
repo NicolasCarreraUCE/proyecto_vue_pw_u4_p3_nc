@@ -16,9 +16,10 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 nav a{
   color: blue;
   margin: auto 15px;
 }
+
 </style>
