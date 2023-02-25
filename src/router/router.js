@@ -22,7 +22,7 @@ const routes = [
         component: () => import(/* webpackChunkName: "Actualizar" */ '../pages/Actualizar')
     },
     {
-        path: '/buscar',
+        path: '/buscar/:idCliente',
         //component: Buscar
         component: () => import(/* webpackChunkName: "Buscar" */ '../pages/Buscar')
     },
